@@ -1,5 +1,5 @@
 # Stock-Analysis
-Module 2 OSU Bootcamp
+Module 2 University of Oregon Bootcamp
 
 ## Overview of Stock Analysis
     The purpose of this study was to see the yearly returns for a dozen stocks that are on the clients watch list. With that information determine the stocks from that list that may have good returns for the future.
