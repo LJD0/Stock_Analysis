@@ -1,14 +1,21 @@
 # Stock Analysis
 
-## Overview of Stock Analysis
+A comparative analysis of the top winners and losers from the years 2018 and 2017, focusing on their contrasting performances and shedding light on the fluctuations experienced by certain stocks.
 
-The purpose of this study was to see the yearly returns for a dozen stocks that are on the clients watch list. With that information determine the stocks from that list that may have good returns for the future.
+## Summary
 
-## Results
+**Top Performers and Underperformers**
 
-Ultimately only two stocks performed positively across both years of study; tickers "ENPH", and "RUN". While looking at the year 2017 we can see that most of the stocks on our watch list had positive yearly returns, and the opposite became true in 2018. It would suggest that there were outside factors that led to the decline of the whole market to decline that year or the market had a run up in 2017 and possibly years previous leading to a cool off period in 2018. It would seem that any of the stocks on are list have the potential to rise, based on their sharp decline over the year of 2018, but because there were only two that had performed positively even while the market was on a downtrend, our best results may be found by investing in either "ENPH" or "RUN".
+**2017:**
 
-### Summary
+In 2017, DQ launched its winning streak, achieving exceptional returns of 199.45% with a relatively lower volume. This outstanding performance reinforced DQ's position as a standout stock, even in the face of challenging market conditions. It exemplified the potential for significant returns and the rewards that can come from well-timed investments.
 
-Our initial code for AllStockAnalysis was able to perform all of the essential functions we needed to complete our analysis. The drawbacks are we wrote this code in a language that programmers can understand, i.e. using variable like "i" and "j" to iterate through our stock tickers. With our refactored code it is plain to see the purpose of each variable and how it is being referenced. The other drawback to the original code was the variable were not stored independently of each other inside of a list. With the refactored code each ticker has a specific value of Volume and a Start and End Price each specific to the ticker. Our original code wrote over each of those variables as needed for each ticker.
-The major difference in our refactored code is the arrays we used to store our individual totals for each ticker. The advantage to storing the data that way is that we can now access any given variable for any given ticker at any time. With the original code the Volume and Start/End Prices were overwritten each iteration fo the loops we used. If we were to try and call back to the volume variable the system would only give us the most recent iteration, not the one we may need.
+Another stock that displayed remarkable resilience was  **SEDG** . Despite the inherent volatility in the market, SEDG managed to generate an outstanding return of 184.47% with a substantial volume of $206,885,200.
+
+**2018:**
+
+**ENPH** and **RUN** emerged as the top performers in 2018, showcasing their resilience and ability to navigate the market successfully. ENPH attracted attention with an impressive return of 81.92% and a substantial volume of $607,473,500. Similarly, RUN demonstrated its potential with a remarkable return of 83.95% and a significant volume of $502,757,100. These stocks capitalized on emerging opportunities and delivered favorable returns to investors.
+
+One interesting observation is the significant contrast in performance for **DQ** between 2017 and 2018. In 2017, DQ emerged as the top performer, achieving an exceptional return of 199.45% with a relatively lower volume of $35,796,200. This remarkable growth positioned DQ as an attractive investment option and garnered significant attention from investors.
+
+However, the story took a different turn in 2018. Despite having a high volume of $107,873,900, DQ encountered substantial challenges, resulting in a significant decline in returns at -62.60%. This decline highlights the volatility of the market and serves as a reminder that past performance does not guarantee future success. The stark contrast between DQ's performance in the two years demonstrates the risks inherent in investing and the need for careful evaluation and monitoring of market conditions.
