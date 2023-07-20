@@ -8,7 +8,7 @@ A comparative analysis of the top winners and losers from the years 2018 and 201
 
 **2017:**
 
-<img alt='2017_data' style='width: 80vw' src='https://raw.githubusercontent.com/LJD0/Stock_Analysis/main/images/2017.png'>
+<img alt='2017_data' style='width: 50vw' src='https://raw.githubusercontent.com/LJD0/Stock_Analysis/main/images/2017.png'>
 
 In 2017, DQ launched its winning streak, achieving exceptional returns of 199.45% with a relatively lower volume. This outstanding performance reinforced DQ's position as a standout stock, even in the face of challenging market conditions. It exemplified the potential for significant returns and the rewards that can come from well-timed investments.
 
@@ -16,7 +16,7 @@ Another stock that displayed remarkable resilience was  **SEDG** . Despite the i
 
 **2018:**
 
-<img alt='2018_data' style='width: 80vw' src='https://raw.githubusercontent.com/LJD0/Stock_Analysis/main/images/2018.png'>
+<img alt='2018_data' style='width: 50vw' src='https://raw.githubusercontent.com/LJD0/Stock_Analysis/main/images/2018.png'>
 
 **ENPH** and **RUN** emerged as the top performers in 2018, showcasing their resilience and ability to navigate the market successfully. ENPH attracted attention with an impressive return of 81.92% and a substantial volume of $607,473,500. Similarly, RUN demonstrated its potential with a remarkable return of 83.95% and a significant volume of $502,757,100. These stocks capitalized on emerging opportunities and delivered favorable returns to investors.
 
